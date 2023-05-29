@@ -8,4 +8,4 @@ Personligt er jeg meget inspireret af den *[britiske regerings pionerarbejde](ht
 
 Jeg mener at Danmark bør være et foregangsland inden for open source i det offentlige og at vi har et fundament for dette i Digitaliseringsstyrelsens *[Vejledning om brug af open source i den offentlige sektor](https://arkitektur.digst.dk/metoder/arkitekturmetoder/vejledning-om-brug-af-open-source-i-den-offentlige-sektor/vejledning-om)* og de *[Fællesoffentlige principper og regler.](https://arkitektur.digst.dk/principper-og-regler)*
 
-På *[OS2-bloggen](https://www.os2.eu/blog/nyheder-2/blog-open-source-leverer-pa-de-faellesoffentlige-principper-4352)* har jeg skrevet lidt mere om hvordan jeg har anvendt open source til at sætte disse principper i spil i Randers via arkitektur planer og åbenhed.
+På *[OS2-bloggen](https://www.os2.eu/blog/nyheder-2/blog-open-source-leverer-pa-de-faellesoffentlige-principper-4352)* har jeg skrevet lidt mere om hvordan jeg har anvendt open source til at sætte disse principper i spil i Randers Kommune via arkitektur planer og åbenhed.
