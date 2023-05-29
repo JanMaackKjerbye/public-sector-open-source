@@ -1,4 +1,4 @@
-# 🙌 Open Source
+# 🌍 Open Source
 
 Open source økosystemet betyder for mig, først og fremmest et sæt rammer, der giver deltagerne mulighed for at dele sin viden og erfaring. 
 
