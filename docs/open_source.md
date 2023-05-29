@@ -1,6 +1,6 @@
 # Open Source
 
-Open source økosystemet betyder, først og fremmest et sæt rammer der giver deltagerne mulighed for at dele sin viden og erfaring. 
+Open source økosystemet betyder for mig, først og fremmest et sæt rammer der giver deltagerne mulighed for at dele sin viden og erfaring. 
 
 Man får mulighed for at bidrage til og samarbejde om fælles løsninger, der gavner samfundet som helhed. Man står aldrig alene og kan altid finde inspiration og uvurderlige erfaringer der hjælper på vej i alle faser af et udviklingsprojekt.
 
