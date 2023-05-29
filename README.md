@@ -1,8 +1,3 @@
-layout: page
-title: "Open Source i den offentlige sektor"
-description: Mine betragtninger om open source i den offentlige sektor 
-permalink: /
-
 # 📒 Indhold
 
 - [Om open source økosystemet](/docs/open_source.md)
