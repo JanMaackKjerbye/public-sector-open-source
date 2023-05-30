@@ -1,11 +1,10 @@
-<sub>
+
+<!---<sub>
 
 ###### [Photo by Vie Studio](https://www.pexels.com/photo/black-letters-on-white-surface-4439415/)
+
 </sub>
-
-<!---![logo](/assets/img/pexels-vie-studio-4439415.jpg)-->
-
-![logo](/assets/img/pexels-analogicus-5395777.jpg)
+![logo](/assets/img/pexels-vie-studio-4439415.jpg)-->
 
 
 # ....  REFLEKTIONER ....
