@@ -1,6 +1,6 @@
 # 📒 Indhold
 
-![logo](—Pngtree—open source programming_8653712.png)
+![logo]("/assets/img/—Pngtree—open source programming_8653712.png")
  
 ---
 
