@@ -8,12 +8,12 @@
 
 <br>
 
-#### 🌍 [Open Source: En unik mulighed for innovation og samarbejde i det offentlige](/docs/open_source.md)
+**🌍 [Open Source: En unik mulighed for innovation og samarbejde i det offentlige](/docs/open_source.md)**
 
-#### ♻️ [Bæredygtige projekter: Involvering og struktur som forudsætning](/docs/bæredygtighed_i_open_source.md)
-
-
-#### ✨ [Kodekvalitet: Transparens og kultur for kontinuerlig forbedring](docs/kvalitet_i_kodebasen.md)
+**♻️ [Bæredygtige projekter: Involvering og struktur som forudsætning](/docs/bæredygtighed_i_open_source.md)**
 
 
-#### 🤝 [Tværgående samarbejder: Fælles grobund for bæredygtige open source projekter](/docs/tvaergående_samarbejde.md)
+**✨ [Kodekvalitet: Transparens og kultur for kontinuerlig forbedring](docs/kvalitet_i_kodebasen.md)**
+
+
+**🤝 [Tværgående samarbejder: Fælles grobund for bæredygtige projekter](/docs/tvaergående_samarbejde.md)**

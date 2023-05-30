@@ -1,4 +1,4 @@
-# 🤝 Tværgående samarbejder: Fælles grobund for bæredygtige open source projekter
+# 🤝 Tværgående samarbejder: Fælles grobund for bæredygtige projekter
 Heldigvis er indsatsen med at føde og drive bæredygtige open source projekter ikke en man behøver opfinde fra bunden eller drive alene i de enkelte organisationer.
 
 Jeg mener der skal trækkes på initiativer som f.eks *[Foundation for Public Code](https://publiccode.net/)* og *[Joinup](https://joinup.ec.europa.eu/collection/joinup/about)* for at skabes en fælles grobund for de mange større og mindre mindre initiativer både nationalt og internationalt
