@@ -1,16 +1,22 @@
-# 📒 Indhold
+<sub>
 
-![logo](/assets/img/oss.png)
- 
----
+###### [Photo by Vie Studio](https://www.pexels.com/photo/black-letters-on-white-surface-4439415/)
+</sub>
 
-### - [Om open source økosystemet](/docs/open_source.md)
+<!---![logo](/assets/img/pexels-vie-studio-4439415.jpg)-->
 
-
-### - [Hvad betyder bæredygtighed i open source projekter](/docs/bæredygtighed_i_open_source.md)
+![logo](/assets/img/pexels-analogicus-5395777.jpg)
 
 
-### - [Hvordan sikrer man kvalitet i en kodebase?](docs/kvalitet_i_kodebasen.md)
+# ....  REFLEKTIONER ....
+<br>
+
+#### 🌍 [Om open source økosystemet](/docs/open_source.md)
+
+#### ♻️ [Hvad betyder bæredygtighed i open source projekter](/docs/bæredygtighed_i_open_source.md)
 
 
-### - [Styrken ved tværgående samarbejder](/docs/tvaergående_samarbejde.md)
+#### ✨ [Hvordan sikrer man kvalitet i en kodebase?](docs/kvalitet_i_kodebasen.md)
+
+
+#### 🤝 [Styrken ved tværgående samarbejder](/docs/tvaergående_samarbejde.md)

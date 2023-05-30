@@ -1,6 +1,9 @@
 # ✨ Kvalitet i kodebasen
 
-For mig drejer kvalitet i en kodebase sig primært om transparens og kultur, og i mindre grad om et lavt antal fejl på bug-trackeren. Her her er mine vigtigste erfaringsbaserede pointer:
+For mig drejer kvalitet i en kodebase sig primært om transparens og kultur, og i mindre grad om et lavt antal fejl på bug-trackeren. 
+Her her er mine vigtigste erfaringsbaserede pointer der italesætter hvordan man kan arbejde med at forbedre kvaliteten i en kodebase:
+
+---
 
 #### Kodekvalitet er en aftale, ikke et måltal.
 Anvendes det kun som et måltal skades innovationen og teamets forskelligheder risikerer at skabe konflikter istedet for at skabe sammenhold og fremdrift.
@@ -22,3 +25,5 @@ Opsætning og vedligehold af udviklermiljøer er en tidsrøver og en fokusdræbe
 
 #### Fejl er ikke pinlige, de er kilder til læring og forbedring.
 Isoler fejl til testmiljøer og skab en åben kultur hvor dialog, nysgerrighed, eksperimenter og humor omkring bugs skaber en tryg base for alle udviklere på teamet.
+
+---
