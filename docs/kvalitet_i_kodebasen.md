@@ -1,4 +1,4 @@
-# ✨ Kvalitet i kodebasen
+# ✨ Kodekvalitet: Transparens og kultur for kontinuerlig forbedring
 
 For mig drejer kvalitet i en kodebase sig primært om transparens og kultur, og i mindre grad om et lavt antal fejl på bug-trackeren. 
 Her her er mine vigtigste erfaringsbaserede pointer der italesætter hvordan man kan arbejde med at forbedre kvaliteten i en kodebase:

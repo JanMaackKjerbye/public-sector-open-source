@@ -1,4 +1,4 @@
-# ♻️ Bæredygtighed i open source projekter
+# ♻️ Bæredygtige projekter: Involvering og struktur som forudsætning
 
 Det unikke ved open source, er måden hvorpå deltagerne involveres. 
 
