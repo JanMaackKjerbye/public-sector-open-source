@@ -9,13 +9,13 @@ at sikre et bæredygtigt open source projekt lyder som følger:
 
 ---
 
-**Lav faste rammer for dokumentation**
+:page_facing_up:  **Lav faste rammer for dokumentation**
 
-f.eks ved brug af [Docmentation-as-Code](https://www.writethedocs.org/guide/docs-as-code/), for at sikre god dokumentation, der forklarer formålet, funktionerne, udrulningen og brugen af koden. 
+Anvend standarder som [Docmentation-as-Code](https://www.writethedocs.org/guide/docs-as-code/), til at sikre god dokumentation, der beskriver kodenens formål, funktioner, udrulningsmetoode og brug. 
 
-**Invester i fælleskabet** 
+🤝 **Invester i et stærkt fælleskab** 
 
-Brug tid og kræfter på at oprette og drive et aktiv og imødekommende community, der arbejder aktivt med feedback, fejlrapporter og forslag til forbedringer fra andre. Udnævn kompetente community managers og lav faste arrangementer som f.eks hackathons.
+Brug tid og kræfter på at oprette og drive et aktiv og imødekommende community, der arbejder aktivt med feedback, fejlrapporter og forslag til forbedringer fra andre. Udnævn kompetente community managers og afhold regelmæssige arrangementer som f.eks. hackathons.
 
 **Konsensus og struktur skaber ejerskab**
 
