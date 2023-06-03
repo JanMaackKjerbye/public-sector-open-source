@@ -2,7 +2,7 @@
 
 Det unikke ved open source, er måden hvorpå deltagerne involveres. 
 
-Jeg har igennem tiden oplevet mange software leverancer fejle eller skuffe både som leverandør og kunde. Ved kaffemaskinen spredte myterne sig om "inkompetente udviklere" og "dovne driftsfolk" sig, men min vurdering i dag er at det i høj grad var en lidt slidt lukket forretningsmodel der kastede grus i maskineriet.
+Jeg har igennem tiden oplevet mange softwareleverancer fejle eller skuffe, både som leverandør og kunde. Ved kaffemaskinen spredte myterne sig om “inkompetente udviklere” og “dovne driftsfolk”, men min vurdering i dag er, at det i høj grad var en utidssvarende og lukket forretningsmodel, der kastede grus i maskineriet.
 
 Det er for mig her at open source har et stort potentiale. Det er en mere åben og dynamisk måde at skabe produkter på, som involverer kunderne og communityet i processen. Det giver mere værdi og innovation for alle parter på lang sigt. Men det kommer ikke uden en vis struktur og styring. Mine top 3 anbefalinger til
 at sikre et bæredygtigt open source projekt lyder som følger:
