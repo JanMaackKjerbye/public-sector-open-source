@@ -25,4 +25,4 @@ Med formulering og håndhævelse af en code of conduct, som fælleskabet er enig
 ---
 For at understøtte en sådan grad af involvering, mener jeg man skal lade sig inspirere af en række veldokumenterede åbne initiativer som f.eks OSPO Alliance's [The Open Source Good Governance Initiative](https://ospo.zone/ggi/), Red Hats [THE OPEN SOURCE WAY 2.0](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html) og JoinUps [Open Source Observatory-Guidelines for creating sustainable open source communities](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities). 
 
-Med afsæt i sådanne åbne initiativer er grundlaget lagt for at skabe et bæredygtigt open source projekt.
+Med afsæt i sådanne åbne initiativer er grundlaget lagt for at drive et bæredygtigt open source projekt.
