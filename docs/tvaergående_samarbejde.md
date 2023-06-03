@@ -12,8 +12,10 @@ Det ville være oplagt at følge trenden og bidrage på ægte open source maner,
 
 ---
 
-Et OSPO er et kontor, der tage ansvaret for de aktiviteter og den struktur der er nødvendig for at drive projekterne fremad. Et open source program office hjælper organisationer på forskellige digitale modenhedsniveauer med at drage fordel af open source software der hvor det giver værdi og kan være drivende for den modning der kræves inden organisationen er klar til at øge bidragene til fællesskabet. 
+Et open source program office er en organisation, der tage ansvaret for de aktiviteter og den struktur der er nødvendig for at drive projekterne fremad. ORganisationen hjælper deltagere på forskellige digitale modenhedsniveauer med at drage fordel af open source software der hvor det giver værdi og kan være drivende for den modning der kræves, inden organisationen er klar til at øge bidragene til fællesskabet. 
 
-Jeg har en vision om at kunne fjerne opstarts barriererne for spirende initiativer ved at lave et slags “digitalt kontorfællesskab” baseret bl.a. på [løsnings kataloget fra Cloud Native Computing Foundation](https://www.cncf.io/projects/). Ved at stille et ensartet sæt skabeloner, værktøjer og metoder frit til rådighed kunne mange af de lavpraktiske udfordringer for værdiskabende, tværgående samarbejder eliminieres.
+Ved at oprette specialiserede indsatser inden for standardisering og automatisering af kernedisciplinerne inden for software leverancer, kan man fjerne opstarts barriererne for spirende open source initiativer, og lade projektet fokusere på innovationen og selve udviklingen. Og bedst af alt: Man behøver ikke initiere store nyudvikligsprojekter for at sparke sådanne initiativer i gang. Der ligger allerede en omfattende produktionsklart bagkatalog af software bl.a. fra [Cloud Native Computing Foundation](https://www.cncf.io/projects/). 
 
-Endemålet med de tværgående samarbejder er at give flere leverandører mulighed for hurtigt og ensartet at kunne levere software til fællesskabet og at åbne op for deltagelse og sparring fra de offentlige institutioner, så der kan skabes bæredygtige projekter hele vejen fra ide til fungerende løsning.
+Min vision er at man ved at stille et ensartet sæt skabeloner, værktøjer og metoder frit til rådighed kunne mange af de lavpraktiske udfordringer for værdiskabende, tværgående samarbejder eliminieres.
+
+Endemålet med  sådanne tværgående samarbejder er at give flere leverandører mulighed for hurtigt og ensartet at kunne levere software til fællesskabet og at åbne op for deltagelse og sparring fra de offentlige institutioner, så der kan skabes bæredygtige projekter hele vejen fra ide til fungerende løsning.
