@@ -1,11 +1,9 @@
 # 🤝 Tværgående samarbejder: Fælles grobund for bæredygtige projekter
 
-Pointen om at  aldrig stå alene med arbejdet, er en kultur og et tankesæt der udfordrer dybt forankrede traditioner både inden for software- og forretningsudvikling. Populært navngivet "The Not Incented Here Syndrome"(NIH) er velundersøgt i den [videnskabelige faglitteratur]([#kilde](https://scholar.google.dk/scholar?q=not+invented+here+syndrome+research). Selvom der kan opstilles argumenter for at undgå samarbejde og genbrug, mener jeg at de vigtigste bekymringer f.eks om uklare licens-omkostninger og tabte konkurrencefordele kan elimineres ved at satse på open source i det offentlige.
+Pointen om at  aldrig stå alene med arbejdet, er en kultur og et tankesæt der udfordrer en dybt forankredet tradition inden for software- og forretningsudvikling. Denne tradition, populært navngivet "The Not Invented Here Syndrome"(NIH), er velundersøgt i den [videnskabelige faglitteratur]([#kilde](https://scholar.google.dk/scholar?q=not+invented+here+syndrome+research). Selvom der kan opstilles argumenter for at undgå samarbejde og genbrug, mener jeg at de vigtigste bekymringer f.eks om uklare licens-omkostninger og tabte konkurrencefordele elimineres når man intriducerer open source i det offentlige.
+Min erfaring peger dog på at sådanne store kultur-forandringer ikke er en indsats man kan forvente kun kan komme via entusiasme og bottom up initiativer, den skal understøttes og plejes i større tværgående sammarbejder der kan oplyse og guide, når der mødes modstand og frugt for forandring.
 
-Min erfaring peger dog på at sådanne store kultur-forandringer ikke er en indsats man kan forvente kun kan komme via entusiasme og bottom up initiativer, den skal støttes og plejes med..... . ..
-
-Jeg mener der skal trækkes på initiativer som f.eks *[Foundation for Public Code](https://publiccode.net/)* og *[Joinup](https://joinup.ec.europa.eu/collection/joinup/about)* for at skabes en fælles grobund for de mange større og mindre mindre initiativer både nationalt og internationalt
-
+Jeg mener der skal trækkes på initiativer som f.eks *[Foundation for Public Code](https://publiccode.net/)* og at brede tværgående platforme som *[Joinup](https://joinup.ec.europa.eu/collection/joinup/about)* skal udbredes og anvendes i det nationale digitaliserings arbejde. Jeg er klar over risikoen for at arbejdes politiseres, så det kræver et enigt og stærkt team der kan rådgive og kommunikere entydigt og præcist ud fra principperne om transparens og involvering. 
 
 ---
 
