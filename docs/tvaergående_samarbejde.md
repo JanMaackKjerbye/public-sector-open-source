@@ -1,5 +1,8 @@
 # 🤝 Tværgående samarbejder: Fælles grobund for bæredygtige projekter
-Heldigvis er indsatsen med at føde og drive bæredygtige open source projekter ikke en man behøver opfinde fra bunden eller drive alene i de enkelte organisationer.
+
+Pointen om at  aldrig stå alene med arbejdet, er en kultur og et tankesæt der udfordrer dybt forankrede traditioner både inden for software- og forretningsudvikling. Populært navngivet "The Not Incented Here Syndrome"(NIH) er velundersøgt i den [videnskabelige faglitteratur]([#kilde](https://scholar.google.dk/scholar?q=not+invented+here+syndrome+research). Selvom der kan opstilles argumenter for at undgå samarbejde og genbrug, mener jeg at de vigtigste bekymringer f.eks om uklare licens-omkostninger og tabte konkurrencefordele kan elimineres ved at satse på open source i det offentlige.
+
+Min erfaring peger dog på at sådanne store kultur-forandringer ikke er en indsats man kan forvente kun kan komme via entusiasme og bottom up initiativer, den skal støttes og plejes med..... . ..
 
 Jeg mener der skal trækkes på initiativer som f.eks *[Foundation for Public Code](https://publiccode.net/)* og *[Joinup](https://joinup.ec.europa.eu/collection/joinup/about)* for at skabes en fælles grobund for de mange større og mindre mindre initiativer både nationalt og internationalt
 
