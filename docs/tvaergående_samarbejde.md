@@ -7,11 +7,13 @@ Min erfaring peger dog på at sådanne store kultur-forandringer ikke er en inds
 
 Jeg mener der skal trækkes på initiativer som f.eks *[Foundation for Public Code](https://publiccode.net/)* og at brede tværgående platforme som *[Joinup](https://joinup.ec.europa.eu/collection/joinup/about)* skal udbredes og anvendes i det nationale digitaliserings arbejde. Jeg er klar over risikoen for at arbejdes politiseres, så det kræver et enigt og stærkt team der kan rådgive og kommunikere entydigt og præcist ud fra principperne om transparens og involvering. 
 
+Disse overvejelser fører mig til en generel betragtning, der i høj grad er relevant for en succesrig udbredelse af open source i den offentlige sektor i Danmark:
+
 ---
 
-**Forandringerne kræver en klar vision, og en koordinerende organ der opererer tværgående.**
+**Store forandringer kræver en klar vision, og en koordinerende organ der opererer tværgående.**
 
-Det ville være oplagt at følge trenden og bidrage på ægte open source maner, til oprettelsen af et [nationalt open source program office (OSPO)](https://blog.opensource.org/what-is-an-open-source-program-office-and-why-you-should-have-one/)
+Det er oplagt at følge trenden og bidrage på ægte open source maner, til oprettelsen af et [nationalt open source program office (OSPO)](https://blog.opensource.org/what-is-an-open-source-program-office-and-why-you-should-have-one/)
 
 ---
 
