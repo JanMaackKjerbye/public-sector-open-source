@@ -8,7 +8,7 @@ Selvom der *kan* opstilles argumenter for at undgå samarbejde og genbrug, mener
 
 **Store kultur-forandringer skal understøttes og plejes i større tværgående sammarbejder.**
 
-Jeg mener der skal trækkes på initiativer som [Foundation for Public Code](https://publiccode.net/) og det fælleseuropæiske [Joinup](https://joinup.ec.europa.eu/collection/joinup/about). Og det min klare overbevisning at det er oplagt at bidrage til oprettelsen af et nationalt open source program office (OSPO). 
+Jeg mener der skal trækkes på initiativer som [Foundation for Public Code](https://publiccode.net/) og det fælleseuropæiske [Joinup](https://joinup.ec.europa.eu/collection/joinup/about). Det er desuden min klare overbevisning at det er oplagt at bidrage til oprettelsen af et nationalt open source program office (OSPO). 
     
 Et OSPO tager ansvaret for aktiviteter og struktur der er nødvendig for at drive projekterne fremad. Under et OSPO kunne der oprettes specialiserede indsatser inden for standardisering og automatisering af kernedisciplinerne inden for software leverancer. 
 
