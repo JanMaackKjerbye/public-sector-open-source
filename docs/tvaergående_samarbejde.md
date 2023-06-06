@@ -8,7 +8,7 @@ Selvom der *kan* opstilles argumenter for at undgå samarbejde og genbrug, mener
 
 **Store kultur-forandringer skal understøttes og plejes i større tværgående sammarbejder.**
 
-Jeg mener der skal trækkes på initiativer som Foundation for Public Code og Joinup. Og det er oplagt at bidrage til oprettelsen af et nationalt open source program office (OSPO). 
+Jeg mener der skal trækkes på initiativer som [Foundation for Public Code](https://publiccode.net/) og det fælleseuropæiske [Joinup](https://joinup.ec.europa.eu/collection/joinup/about). Og det min klare overbevisning at det er oplagt at bidrage til oprettelsen af et nationalt open source program office (OSPO). 
     
 Et OSPO tager ansvaret for aktiviteter og struktur der er nødvendig for at drive projekterne fremad. Under et OSPO kunne der oprettes specialiserede indsatser inden for standardisering og automatisering af kernedisciplinerne inden for software leverancer. 
 
@@ -16,7 +16,7 @@ Et OSPO tager ansvaret for aktiviteter og struktur der er nødvendig for at driv
 
 **Fælles værktøjer og metoder baner vejen**
 
-Et tværgående samarbejde jeg mener er afgørende for at udbrede open source i det offentlige, er at samarbejde om ensartede skabeloner, værktøjer og metoder for udrulning og idriftsættelse. Grundlaget er allerede lagt af [Cloud Native Computing Foundation](https://www.cncf.io/projects/) og det er nu værdien kan høstes, ved at uddanne og skabe konsensus om dette blandt kommunale og statslige open source anvendere.
+Et tværgående samarbejde jeg mener er afgørende for at udbrede open source i det offentlige, er et samarbejde om ensartede skabeloner, værktøjer og metoder for udrulning og idriftsættelse. Grundlaget er allerede lagt af [Cloud Native Computing Foundation](https://www.cncf.io/projects/) og det er nu værdien kan høstes, ved at uddanne og skabe konsensus om dette blandt kommunale og statslige open source anvendere og deres leverandører.
 
 ---
 
