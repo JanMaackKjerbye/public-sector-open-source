@@ -5,7 +5,7 @@ Open source økosystemet betyder for mig, først og fremmest et sæt rammer, der
 
 Man får mulighed for at bidrage til og samarbejde om fælles løsninger, der gavner samfundet som helhed. Man står aldrig alene og kan altid finde inspiration og uvurderlige erfaringer, der hjælper på vej i alle faser af et udviklingsprojekt.
 
-Open source er en ideel løsning for det offentlige på mange punkter, ikke mindst p.g.a. den unikke situation offentlige instanser står i når det gælder konkurrence:
+Open source er en ideel løsning for det offentlige på mange punkter, ikke mindst p.g.a. den unikke situation kommuner og stat står i når det gælder konkurrenceudsættelse:
 
 --- 
 
