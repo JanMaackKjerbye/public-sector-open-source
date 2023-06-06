@@ -17,9 +17,9 @@ Denne simple kendsgerning giver open source en unik mulighed for at fremme effek
 
 Argumentet er ikke mit eget. Jeg trækker det fra den *[britiske regerings pionerarbejde](https://www.youtube.com/watch?v=o3xFqa_HN2I)* med open source, som løftestang for digital forandring i den offentlige sektor. Der ligger, efter min mening, meget allerede velfomuleret tankegods i *[denne strategi](https://www.gov.uk/guidance/be-open-and-use-open-source)*, der kan henvises til og som kan tilpasses danske forhold.
 
-Alle i Danmark har nærmest vænnet sig til den tragiske, næsten komiske virkelighed, hvor offentlige udviklingsprojekter alt for ofte overskrider tidsplan og budgetter, men alligevel ikke rammer helt plet med den kvalitet eller værdi, der skal leveres. Hvis man, som jeg, har arbejdet med både closed og open source it-arkitektur og metoder i 3 årtier, bliver det tydeligt, at der er flere punkter, hvor open source kan levere store forbedringer i den måde offentlige digitalisering udvikles på.
+Alle i Danmark har nærmest vænnet sig til den tragiske, næsten komiske virkelighed, hvor offentlige udviklingsprojekter alt for ofte overskrider tidsplan og budgetter, men alligevel ikke rammer helt plet med den kvalitet eller værdi, der skal leveres. Hvis man, som jeg, har arbejdet med både closed og open source it-arkitektur og metoder i 3 årtier, bliver det tydeligt, at der er flere punkter, hvor open source kan levere afgørende forbedringer til offentlige digitaliseringsprojekter.
 
-Med den åbne model omkring open source kan vi i samarbejde begynde at ændre det dårlige rygte offentlige it-projekter har fået, ved rent lavpraktisk at begynde at levere kvalitet til tiden.
+Med den åbne model omkring open source kan vi i samarbejde, begynde at ændre det dårlige rygte offentlige it-projekter har fået, ved rent lavpraktisk at begynde at levere kvalitet til tiden.
 
 Jeg er overbevist om at Danmark kan blive et foregangsland inden for open source i det offentlige, og at vi allerede har et solidt fundament for dette i Digitaliseringsstyrelsens *[Vejledning om brug af open source i den offentlige sektor](https://arkitektur.digst.dk/metoder/arkitekturmetoder/vejledning-om-brug-af-open-source-i-den-offentlige-sektor/vejledning-om)* og de *[Fællesoffentlige principper og regler.](https://arkitektur.digst.dk/principper-og-regler)*
 
