@@ -10,7 +10,7 @@ Det er for mig her at open source har et stort potentiale. Det er en mere åben 
 
 📄 **Lav faste rammer for dokumentation**
 
-Anvend standarder som [Docmentation-as-Code](https://www.writethedocs.org/guide/docs-as-code/), til at sikre god dokumentation, der beskriver kodenens formål, funktioner, udrulningsmetoode og brug. 
+Anvend standarder som [Docmentation-as-Code](https://www.writethedocs.org/guide/docs-as-code/), til at sikre god dokumentation, der beskriver kodenens formål, funktioner, udrulningsmetode og brug. 
 
 ---
 
