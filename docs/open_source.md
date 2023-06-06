@@ -19,7 +19,7 @@ Argumentet er ikke mit eget. Jeg trækker det fra den *[britiske regerings pione
 
 Alle i Danmark har nærmest vænnet sig til den tragiske, næsten komiske virklighed om at offentlige udviklingsprojekter næsten altid skal overskride tidsplan, budgetter og alligevel ikke ramme helt plet med den kvalitet eller værdi der skal leveres. Hvis man som jeg, har arbejdet med både closed og open source it-arkitektur og metoder i 3 årtier, bliver det tydeligt at der er flere punkter hvor open source kan levere store forbedringer i den måde offentlige digitalisering udvikles på. 
 
-Med den åbne model omkring open source kan vi i samarbejde begynde at ændre det dårlige rygte offentlige it-projekter har fået. 
+Med den åbne model omkring open source kan vi i samarbejde begynde at ændre det dårlige rygte offentlige it-projekter har fået ved rent lavpraktisk at begynde at levere kvalitet til tiden.
 
 Jeg er overbevist om at Danmark kan blive et foregangsland inden for open source i det offentlige og at vi allerede har et solidt fundament for dette i Digitaliseringsstyrelsens *[Vejledning om brug af open source i den offentlige sektor](https://arkitektur.digst.dk/metoder/arkitekturmetoder/vejledning-om-brug-af-open-source-i-den-offentlige-sektor/vejledning-om)* og de *[Fællesoffentlige principper og regler.](https://arkitektur.digst.dk/principper-og-regler)*
 
