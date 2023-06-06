@@ -2,7 +2,7 @@
 
 Pointen om offentligt at dele og aldrig stå alene med sit arbejde, er en kultur og et tankesæt der udfordrer en dybt forankret tradition inden for software- og forretningsudvikling. Denne tradition, populært navngivet "The Not Invented Here Syndrome"(NIH), er velundersøgt i den [videnskabelige faglitteratur](https://scholar.google.dk/scholar?q=not+invented+here+syndrome+research).
 
-Selvom der *kan* opstilles argumenter for at undgå samarbejde og genbrug, mener jeg at de vigtigste bekymringer f.eks om uklare licens-omkostninger og tabte konkurrencefordele elimineres når man introducerer open source i det offentlige.
+Selvom der *kan* opstilles argumenter for at undgå samarbejde og genbrug, mener jeg at de vigtigste bekymringer f.eks om uklare licens-omkostninger og tabte konkurrencefordele elimineres, når man introducerer open source i det offentlige.
 
 Min erfaring peger dog på at sådanne store kultur-forandringer ikke er en indsats man kan forvente, kun kan komme via entusiasme og bottom up initiativer, den skal understøttes og plejes i større tværgående sammarbejder der kan oplyse og guide, når der mødes modstand og frygt for forandring.
 
