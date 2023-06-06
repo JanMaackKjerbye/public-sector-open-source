@@ -22,7 +22,7 @@ Et open source program office er en organisation, der tager ansvaret for de akti
 
 Under et OSPO kunne der oprettes specialiserede indsatser inden for standardisering og automatisering af kernedisciplinerne inden for software leverancer. Med disse intitiative kunne man fjerne opstarts barriererne for spirende open source initiativer, og lade deltagerne fokusere på innovation og udviklingen istedet for infratruktur og metoder til implementering. 
 
-Og bedst af alt: Man behøver ikke initiere store nyudvikligsprojekter for at sparke sådanne initiativer i gang. Der ligger allerede et omfattende bagkatalog af produktionsklart software bl.a. fra [Cloud Native Computing Foundation](https://www.cncf.io/projects/) som open source. 
+Og bedst af alt: Man behøver ikke initiere store nyudvikligsprojekter for at sparke sådanne initiativer i gang. Der ligger allerede et omfattende bagkatalog af produktionsklart, open source software fra [Cloud Native Computing Foundation](https://www.cncf.io/projects/) der understøtter dette. 
 
 Min vision er at man ved at stille et ensartet sæt skabeloner, værktøjer og metoder frit til rådighed kunne mange af de lavpraktiske udfordringer for værdiskabende, tværgående samarbejder eliminieres.
 
