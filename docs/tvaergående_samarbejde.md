@@ -16,7 +16,7 @@ Et OSPO tager ansvaret for aktiviteter og struktur der er nødvendig for at driv
 
 **Fælles værktøjer og metoder baner vejen**
 
-Et afgørende tværgående samarbejde jeg mener er afgørende for at udbrede open source i det offentlige, er at samarbejde om ensartede skabeloner, værktøjer og metoder for udrulning og idriftsættelse. Grundlaget er allerede lagt af [Cloud Native Computing Foundation](https://www.cncf.io/projects/) og det er nu værdien kan høstes, ved at uddanne og skabe konsensus om dette blandt kommunale og statslige open source anvendere.
+Et tværgående samarbejde jeg mener er afgørende for at udbrede open source i det offentlige, er at samarbejde om ensartede skabeloner, værktøjer og metoder for udrulning og idriftsættelse. Grundlaget er allerede lagt af [Cloud Native Computing Foundation](https://www.cncf.io/projects/) og det er nu værdien kan høstes, ved at uddanne og skabe konsensus om dette blandt kommunale og statslige open source anvendere.
 
 ---
 
