@@ -16,7 +16,7 @@ Anvend standarder som [Docmentation-as-Code](https://www.writethedocs.org/guide/
 
 🤝 **Invester i et stærkt fælleskab** 
 
-Brug tid og kræfter på at oprette og drive et aktiv og imødekommende community, der arbejder aktivt med feedback, fejlrapporter og forslag til forbedringer fra andre. Udnævn kompetente community managers og afhold regelmæssige arrangementer som f.eks. hackathons.
+Brug tid og kræfter på at oprette og drive et initiativrige og imødekommende communities, der arbejder aktivt med feedback, fejlrapporter og forslag til forbedringer fra andre. Udnævn kompetente community managers og afhold regelmæssige arrangementer som f.eks. hackathons.
 
 ---
 
