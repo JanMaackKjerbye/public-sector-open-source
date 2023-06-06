@@ -12,9 +12,13 @@ Det er for mig her at open source har et stort potentiale. Det er en mere åben 
 
 Anvend standarder som [Docmentation-as-Code](https://www.writethedocs.org/guide/docs-as-code/), til at sikre god dokumentation, der beskriver kodenens formål, funktioner, udrulningsmetoode og brug. 
 
+---
+
 🤝 **Invester i et stærkt fælleskab** 
 
 Brug tid og kræfter på at oprette og drive et aktiv og imødekommende community, der arbejder aktivt med feedback, fejlrapporter og forslag til forbedringer fra andre. Udnævn kompetente community managers og afhold regelmæssige arrangementer som f.eks. hackathons.
+
+---
 
 🏆 **Skab ejerskab med konsensus og struktur**
 
