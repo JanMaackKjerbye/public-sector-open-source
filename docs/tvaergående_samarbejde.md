@@ -18,7 +18,7 @@ Jeg mener derfor det er oplagt at følge trenden, og bidrage på ægte open sour
 
 ---
 
-Et open source program office er en organisation, der tage ansvaret for de aktiviteter og den struktur der er nødvendig for at drive projekterne fremad. Organisationen hjælper deltagere på forskellige digitale modenhedsniveauer med at drage fordel af open source software der hvor det giver værdi og kan være drivende for den modning der kræves, inden organisationen er klar til at øge bidragene til fællesskabet. 
+Et open source program office er en organisation, der tager ansvaret for de aktiviteter og den struktur der er nødvendig for at drive projekterne fremad. Organisationen hjælper deltagere på forskellige digitale modenhedsniveauer med at drage fordel af open source software der hvor det giver værdi og kan være drivende for den modning der kræves, inden organisationen er klar til at øge bidragene til fællesskabet. 
 
 Under et OSPO kunne der oprettes specialiserede indsatser inden for standardisering og automatisering af kernedisciplinerne inden for software leverancer. Med disse intitiative kunne man fjerne opstarts barriererne for spirende open source initiativer, og lade deltagerne fokusere på innovation og udviklingen istedet for infratruktur og metoder til implementering. 
 
