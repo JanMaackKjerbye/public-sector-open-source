@@ -4,7 +4,7 @@ Pointen om offentligt at dele og aldrig stå alene med sit arbejde, er en kultur
 
 Selvom der *kan* opstilles argumenter for at undgå samarbejde og genbrug, mener jeg at de vigtigste bekymringer f.eks om uklare licens-omkostninger og tabte konkurrencefordele elimineres, når man introducerer open source i det offentlige.
 
-Min erfaring peger dog på at sådanne store kultur-forandringer ikke er en indsats man kan forvente, kun kan komme via entusiasme og bottom up initiativer, den skal understøttes og plejes i større tværgående sammarbejder der kan oplyse og guide, når der mødes modstand og frygt for forandring.
+Min erfaring peger dog på at sådanne store kultur-forandringer ikke er en indsats man kan forvente, kun kan komme via entusiasme og bottom up initiativer. Den skal understøttes og plejes i større tværgående sammarbejder der kan oplyse og guide, når der mødes modstand og frygt for forandring.
 
 Jeg mener der skal trækkes på initiativer som f.eks *[Foundation for Public Code](https://publiccode.net/)* og at brede, tværgående platforme som *[Joinup](https://joinup.ec.europa.eu/collection/joinup/about)* skal udbredes og anvendes i det nationale digitaliserings arbejde. Jeg er klar over risikoen for at arbejdet politiseres, så det kræver et enigt og stærkt team der kan rådgive og kommunikere entydigt og præcist ud fra principperne om transparens og involvering. 
 
