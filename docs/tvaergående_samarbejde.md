@@ -8,13 +8,15 @@ Grundtanken om offentligt at dele sit eget og genanvende andres arbejde, udfordr
 
 Jeg mener der skal trækkes på initiativer som [Foundation for Public Code](https://publiccode.net/) og det fælleseuropæiske [Joinup](https://joinup.ec.europa.eu/collection/joinup/about) for at finde den fælles vej frem, og det er min klare overbevisning at det er oplagt at bidrage til oprettelsen af et nationalt open source program office (OSPO). 
 
-Et OSPO tager ansvaret for aktiviteter og struktur der er nødvendig for at drive open source frem i OSPOets organisation, i dette tilfælde Danmark. 
+Et OSPO tager ansvaret for aktiviteter og struktur der er nødvendig for at drive open source frem i OSPOets organisation, i dette tilfælde Danmark.
+
+Der er allerede flere fælleskaber og organisationer i Danmark der arbejder for at fremme Open Source på forskellige niveauer, jeg mener dog der mangler en overordnet organisering så indsatserne, med lidt mere alignment, kunne få gavn af hinandens erfaringer og stå stærkere både i den offentlige bevidsthed, men også i det daglige arbejde.
 
 ---
 
 **Fælles værktøjer og metoder baner vejen**
 
-Et tværgående samarbejde jeg mener er afgørende for at udbrede open source i det offentlige, er et samarbejde om ensartede skabeloner, værktøjer og metoder for udrulning og idriftsættelse. Grundlaget er allerede lagt af [Cloud Native Computing Foundation](https://www.cncf.io/projects/) og det er nu værdien kan høstes, ved at uddanne og skabe konsensus om dette blandt kommunale og statslige open source anvendere og deres leverandører.
+Et tværgående samarbejde jeg mener vil være afgørende for at udbrede open source i det offentlige, er et samarbejde om ensartede skabeloner, værktøjer og metoder for udrulning og idriftsættelse af software. Grundlaget er allerede lagt af [Cloud Native Computing Foundation](https://www.cncf.io/projects/) og det er nu værdien kan høstes, ved at uddanne og skabe konsensus om dette blandt kommunale og statslige open source anvendere og deres leverandører.
 
 ---
 
