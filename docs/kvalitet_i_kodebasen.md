@@ -32,7 +32,7 @@ Isoler fejl til testmiljøer og skab en åben kultur hvor dialog, nysgerrighed, 
 ---
 
 Men indrømmet, teknik og metoder spiller naturligvis også ind. 
-Udvikling af nye metoder og værktøjer på dette område er efter min mening en af de afgørende byggesten for at sikre succes for open source. Det er en rivende udvikling der primær drives som åbne økosystemer med bæredygtige forretningsmodeller omkring open source. Jeg ser dermed ikke disse metoder og værktøjer som døgnfluer, men som potentielle til at blive de-facto standarder for udvikling og leverance af digital infrastruktur og digitale ydelser. Det er for omfattende at beskrive alle økosystemerne her, men jeg har udvalgt min egen top 3 over afgørende indsatser der kan forbedre kvalitet i både kodebasen men også igennem hele softwarens livscyklus:
+Udvikling af nye metoder og værktøjer på dette område er efter min mening en af de afgørende byggesten, for at sikre succes for open source. Det er en rivende udvikling der primær drives som åbne økosystemer med bæredygtige forretningsmodeller omkring open source. Jeg ser dermed ikke disse metoder og værktøjer som døgnfluer, men som potentielle til at blive de-facto standarder for udvikling og leverance af digital infrastruktur og digitale ydelser. Det er for omfattende at beskrive alle økosystemerne her, men jeg har udvalgt min egen top 3 over afgørende indsatser der kan forbedre kvalitet i både kodebasen men også igennem hele softwarens livscyklus:
 
 ---
 
