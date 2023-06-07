@@ -1,6 +1,6 @@
 # 🤝 Tværgående samarbejder: Fælles grobund for bæredygtige projekter.
 
- Pointen om offentligt at dele og aldrig stå alene med sit arbejde, udfordrer en dybt forankret tradition inden for software- og forretningsudvikling. Denne tradition, populært navngivet *"The Not Invented Here Syndrome"(NIH)*, er velundersøgt i den [videnskabelige faglitteratur](https://scholar.google.dk/scholar?q=not+invented+here+syndrome+research)
+Grundtanken om offentligt at dele sit eget og genanvende andres arbejde, udfordrer en dybt forankret tradition inden for software- og forretningsudvikling. Denne tradition, populært navngivet *"The Not Invented Here Syndrome"(NIH)*, er velundersøgt i den [videnskabelige faglitteratur](https://scholar.google.dk/scholar?q=not+invented+here+syndrome+research)
 
 Selvom der *kan* opstilles argumenter for at undgå samarbejde og genbrug, mener jeg at de vigtigste bekymringer f.eks om uklare licens-omkostninger og tabte konkurrencefordele elimineres, når man taler open source i det offentlige.
 
